@@ -1,0 +1,9 @@
+apache-airflow-client==2.15.0
+pandas==2.2.2
+pyarrow==16.0.0
+sodapy==2.2.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.32
+psycopg2-binary==2.9.9
+great-expectations==0.18.14
+tqdm==4.66.5
